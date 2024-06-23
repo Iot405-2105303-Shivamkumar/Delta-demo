@@ -1,2 +1,2 @@
 # Delta-demo
-It's my project 
+It's my project.
